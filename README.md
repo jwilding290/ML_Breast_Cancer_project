@@ -2,9 +2,9 @@
 
 ## View Project with nbviewer
 
-Phase 1 - https://nbviewer.org/github/jwilding290/ML_Breast_Cancer_project/blob/main/Phase1_Data_pre-processing_visualisations.ipynb
+Phase 1 - https://nbviewer.org/github/jwilding290/Machine_Learing_Project_Breast_Cancer/blob/main/Phase1_Data_pre-processing_visualisations.ipynb
 
-Phase 2 -https://nbviewer.org/github/jwilding290/ML_Breast_Cancer_project/blob/main/Phase2_Predictive_modeling.ipynb
+Phase 2 -https://nbviewer.org/github/jwilding290/Machine_Learing_Project_Breast_Cancer/blob/main/Phase2_Predictive_modeling.ipynb
 
 
 ## Objective
